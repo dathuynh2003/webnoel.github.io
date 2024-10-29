@@ -1,6 +1,6 @@
 # webnoel.github.io
 
-![Background]([https://example.com/your-background-image.jpg](https://raw.githubusercontent.com/dathuynh2003/webnoel.github.io/refs/heads/main/image/web_bg.png))
+![Background](https://example.com/your-background-image.jpg](https://raw.githubusercontent.com/dathuynh2003/webnoel.github.io/refs/heads/main/image/web_bg.png)
 
 This repository hosts a personal website for celebrating Noel, created using HTML, CSS, and JavaScript.
 
